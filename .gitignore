@@ -1,0 +1,6 @@
+/node_modules
+*.pack
+/frontend/shoppingweb/node_modules
+/venv
+.DS_Store
+*.pyc
